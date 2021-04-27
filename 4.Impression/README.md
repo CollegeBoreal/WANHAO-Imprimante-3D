@@ -11,7 +11,7 @@ Pour démarrer une impression:
      
      v.  Sélectionner ‘Print Project’  
     
-    vi.  Naviguer dans la liste et sélectionner le projet à imprimer 
+    vi.  Naviguer dans la liste et sélectionner le projet à imprimer - Choisir un fichier de format `.stl` 
    
    vii.  Aussitôt que le projet est sélectionné, il faut naviguer vers ‘Extruder’ et remettre les températures a 110 degrés 
          pour ‘Temp. Bed’ et 220 degrés pour ‘Temp. 1’ 
@@ -44,3 +44,7 @@ Durant l'impression:
     iv.  Si vous imprimez de petits objets ou que l'imprimante est rendu a imprimer sur de plus petites surfaces, c'est
          mieux de reduire la vitesse de l'impression pour donner plus de precision à la machine. 
          
+
+# References
+
+https://3dprint.nih.gov/faqs/1781
